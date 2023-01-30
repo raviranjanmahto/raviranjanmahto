@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raviranjanmahto
-- 👀 Currently I'm in NodeJs MongoDB AWS Cloud9 and s3
+- 👀 Currently I'm in ReactJs NodeJs Express MongoDB AWS Cloud9 and many more.
 - 🌱 I’m currently learning NodeJs MongoDB as well as javascript.
 - 💞️ https://vikreta.in
 - 📫 How to reach me https://vikreta.in is my portfolio website.
